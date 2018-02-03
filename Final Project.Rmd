@@ -1,7 +1,7 @@
 ---
 title: "Final Project"
 author: "Vicki Hertzberg"
-date: "January 21, 2017"
+date: "February 7, 2018"
 output: html_document
 ---
 
@@ -23,10 +23,10 @@ There are two intermediate milestones and three final milestones for your projec
 
 Date                                         | Description
 ---------------------------------------      | ---------------------------------------------------- 
-Wednesday February 1 by **5:00 pm EST**      |  Submit a project proposal (Milestone 1)
-Wednesday 15 March by **5:00 pm EDT**        | Submit a working prototype (Milestone 2)
-Wednesday 19 April by **5:00 pm EDT**        | Submit the final PDF of your manuscript (Milestone 3)
-Wednesday 26 April by **5:00 pm EDT**        | Submit the file contining your presentation material 
+Wednesday February 14 by **5:00 pm EST**      |  Submit a project proposal (Milestone 1)
+Wednesday March 28 by **5:00 pm EDT**        | Submit a working prototype (Milestone 2)
+Wednesday May 2 by **5:00 pm EDT**        | Submit the final PDF of your manuscript, the file for your slide deck, and make your presentation (Milestone 3)
+
 
 
 ## Deliverables
@@ -35,7 +35,7 @@ You will also create a website for your project using GitHub. This website shoul
 
 ## Project Milestone 1 - Proposal
 
-Your project proposal, Milestone 1, is due on Wednesday, 1 Februray 2017, by **5:00 pm EST**.You will submit a PDF file. This document will contain two links; 1. a link to the Rmd file that created it in your GitHub repo, and 2. a link to the source of your original data. Please put your name on the first page of the document. The document will include the following information:
+Your project proposal, Milestone 1, is due on Wednesday, 14 Februray 2018, by **5:00 pm EST**.You will submit a PDF file. This document will contain two links; 1. a link to the Rmd file that created it in your GitHub repo, and 2. a link to the source of your original data. Please put your name on the first page of the document. The document will include the following information:
 
 - Basic information: Project title, your name, email address
 - Overview and Motivation: Why did you undertake this particular project? What inspired you, what are your background and research interests that may have influenced your decision? 
@@ -53,7 +53,7 @@ After we receive your proposals we will find a time to meet with you to discuss 
 
 ## Project Milestone 2 - A Working Prototype
 
-A working prototype of your project is due on Wednesday 15 March by **5:00 pm EDT**. You will submit a PDF file. This document will contain two links; 1. a link to the Rmd file that created it in your GitHub repo, and 2. a link to the source of your original data. Please put your name on the first page of the document.
+A working prototype of your project is due on Wednesday March 28 by **5:00 pm EDT**. You will submit a PDF file. This document will contain two links; 1. a link to the Rmd file that created it in your GitHub repo, and 2. a link to the source of your original data. Please put your name on the first page of the document.
 
 For this milestone we expect that you will have acquired, cleaned, and explored your dataset. You will document these activities in your files. You will also explain in detail the components of your final analysis. If you have deviated from your original plans, please describe what is different and the reasons that have led to this. You will explain your workflow, that is, how you went from acquiring your data to getting (close to) an answer to your question. Are there ancillary questions that have arisen as you have gone through this process? What are they?
 
@@ -67,7 +67,7 @@ You will formulate this document as a manuscript, with abstract, main body, figu
 
 ## Presentation
 
-You will present your project in class on 26 April. You will each have 5 minutes to walk us through your project. We will strictly enforce the 5 minute time limit, so please rehearse thoroughly before hand. Use principles of good story telling and presentations to make your key points. Focus the presentation on your results and findings rather than technical details. What is the single most important thing you want your audience to remember? Make this point front and center. What insights did you gain by doing this project? What was the best part of the project? 
+You will present your project in class on May 2. You will each have 5 minutes to walk us through your project. We will strictly enforce the 5 minute time limit, so please rehearse thoroughly before hand. Use principles of good story telling and presentations to make your key points. Focus the presentation on your results and findings rather than technical details. What is the single most important thing you want your audience to remember? Make this point front and center. What insights did you gain by doing this project? What was the best part of the project? 
 
 ## Rmd and HTML Files
 
